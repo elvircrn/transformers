@@ -985,6 +985,7 @@ _import_structure = {
         "HqqConfig",
         "QuantoConfig",
         "TorchAoConfig",
+        "SpQRConfig",
     ],
 }
 
@@ -5930,6 +5931,7 @@ if TYPE_CHECKING:
         HqqConfig,
         QuantoConfig,
         TorchAoConfig,
+        SpQRConfig,
     )
 
     try:

@@ -5930,8 +5930,8 @@ if TYPE_CHECKING:
         GPTQConfig,
         HqqConfig,
         QuantoConfig,
-        TorchAoConfig,
         SpQRConfig,
+        TorchAoConfig,
     )
 
     try:
